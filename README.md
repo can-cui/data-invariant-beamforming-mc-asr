@@ -79,14 +79,12 @@ To visually compare audio quality (e.g., denoised vs. raw signals), use:
 ## 📌 Citation
 
 If you find this work helpful, please consider citing the original paper.
-'''
-@inproceedings{cui2025data,
-  title={Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR},
-  author={Cui, Can and Magron, Paul and Sadeghi, Mostafa and Vincent, Emmanuel},
-  booktitle={IEEE 27th International Workshop on Multimedia Signal Processing (MMSP 2025)},
-  year={2025}
-}
-'''
+`@inproceedings{cui2025data,`
+  `title={Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR},`
+  `author={Cui, Can and Magron, Paul and Sadeghi, Mostafa and Vincent, Emmanuel},`
+  `booktitle={IEEE 27th International Workshop on Multimedia Signal Processing (MMSP 2025)},`
+  `year={2025}`
+`}`
 
 ---
 
